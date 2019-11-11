@@ -1,4 +1,4 @@
-# HS_ETL_Project-
+
 # Guidelines for ETL Project
 
 This document contains guidelines, requirements, and suggestions for Project 1.
